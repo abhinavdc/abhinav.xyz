@@ -6,7 +6,7 @@ path: "/about"
 
 Hi, I'm Abhinav Dinesh, a frontend developer and UX designer. I work as a frontend architect at **Qrech Global Solutions**, a small and young product startup based in the middle east. While I was doing bachelors degree in Computer Science, I had my own startup called HungryMeNot. After graduation I worked as a *Product Solution Engineer* at **CareStack**.
 
-**JavaScript**, **Angular**, **React** are my potions of choice for conjuring up any deadly beast. **GatsbyJs** and **GraphQL** are currently brewing in my basement lab to cook up a *super fast, secure and fancier* beast.
+I code in **JavaScript**, **Angular** and **React** mostly and recently JAM stack have caught my interest, so currently I'm learning **GatsbyJs** and **GraphQL**. This site is powered by Gatsby.
 
 ![Image of Abhinav meditating at Spiti Valley, India](./1.jpg " Spiti Valley, India")
 
