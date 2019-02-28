@@ -32,7 +32,7 @@ module.exports = {
       email: 'abhinavdinesh@live.com',
       github: 'abhinavdc',
       stackOverflow: 'users/10623752/abd995',
-      linkedIn: 'in/abhinav-dinesh-60b770a4'
+      linkedIn: 'in/abhinav-dinesh-60b770a4',
     },
   },
   plugins: [
