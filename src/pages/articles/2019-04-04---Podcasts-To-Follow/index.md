@@ -24,4 +24,4 @@ Hosted by developers from Netflix, Evernote, LinkedIn and Atlassian, this is als
 
 ## [DeveloperTea](https://spec.fm/podcasts/developer-tea)
 
-Podcasts that can fit inside your tea break. Hosted by Jonathan Cutrell this podcasts takes a different route. This is not a pure tech podcasts instead touches on many aspects of software development that are not discussed so much. The host encourages us to see things differently on a wide variety of topics from criticism to levelling up in your career. The amount of tech is less and the amount of help, wisdom and advice is mote in this podcasts. Shouldn't miss this podcasts.
+Podcasts that can fit inside your tea break. Hosted by Jonathan Cutrell this podcasts takes a different route. This is not a pure tech podcast instead touches on many aspects of software development that are not discussed so much. The host encourages us to see things differently on a wide variety of topics from criticism to levelling up in your career. The amount of tech is less and the amount of help, wisdom and advice is mote in this podcasts. Shouldn't miss this podcasts.
