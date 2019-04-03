@@ -1,5 +1,5 @@
 ---
-title: 3 Awesome Web Development Podcasts You Should Never Miss
+title: Tech Podcasts You Should Listen To As A Web Dev
 date: '2019-04-04T01:11:00.000Z'
 layout: post
 draft: false
@@ -7,7 +7,7 @@ path: '/posts/podcasts-to-follow/'
 category: 'Picks'
 tags:
   - 'Podcasts'
-description: 'If you are web developer you should never miss an episode of these awesome web development podcasts'
+description: 'If you are web developer you should never miss an episode of these awesome tech podcasts'
 ---
 
 These are some of the podcasts I listen to, to stay updated on the trends and happenings in the front end and web development scene.
