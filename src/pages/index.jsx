@@ -1,6 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
+import favicon from '../assets/images/favicon.png'
 import Layout from '../components/Layout'
 import Post from '../components/Post'
 import Sidebar from '../components/Sidebar'
@@ -17,7 +18,11 @@ class IndexRoute extends React.Component {
     return (
       <Layout>
         <div>
-          <Helmet>
+          <Helmet
+            link={[
+              { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` },
+            ]}
+          >
             <title>{title}</title>
             <meta name="description" content={subtitle} />
           </Helmet>

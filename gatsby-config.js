@@ -4,7 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://test.abhinavdinesh.me',
-    title: 'Blog by Abhinav Dinesh',
+    title: 'Abhinav Dinesh',
     subtitle:
       'Front End Developer & Designer, Speaks JavaScript, Angular, React, Nodejs, GatsbyJs',
     copyright: '© All rights reserved.',
