@@ -8,7 +8,7 @@ module.exports = {
     subtitle:
       'Front End Developer & Designer, Speaks JavaScript, Angular, React, Nodejs, GatsbyJs',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'abhinavdinesh',
     menu: [
       {
         label: 'Articles',
