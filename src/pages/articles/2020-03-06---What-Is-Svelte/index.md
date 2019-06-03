@@ -27,6 +27,6 @@ description: 'Svelte is a JS framework that borrows ideas from other frameworks,
 
 If that didn't get you excited I guess you need to hear it right from the horses mouth. Here's a talk Rich Harris gave called Rethinking Reactivity. That will get you fired up.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AdNJ3fydeao
-" target="_blank"><img src="http://img.youtube.com/vi/AdNJ3fydeao/0.jpg" 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=AdNJ3fydeao
+" target="_blank"><img src="https://img.youtube.com/vi/AdNJ3fydeao/0.jpg" 
 alt="Rethinking Reactivity" border="0" /></a>
