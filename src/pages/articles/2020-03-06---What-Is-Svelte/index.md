@@ -1,5 +1,5 @@
 ---
-title: Why Svelte Might Disrupt The JS Framework Space
+title: Why Svelte might disrupt the JS framework space
 date: '2019-06-03T17:51:00.000Z'
 layout: post
 draft: false
