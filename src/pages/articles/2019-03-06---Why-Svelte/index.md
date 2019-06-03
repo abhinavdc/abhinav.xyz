@@ -11,10 +11,11 @@ tags:
 description: 'Svelte is a JS framework that borrows ideas from other frameworks, but with a twist of its own.'
 ---
 
-![Svelte Logo](svelte.png)
 
 ##What is svelte
   Svelte is a JS framework that borrows ideas from other frameworks, but with a twist of its own. Cause it's not a framework but a compiler of sorts, that compiles your code to pure JS without any dependencies added by the framework. That results in very tiny bundle sizes, with all the luxuries of a framework. Sounds tempting ? Read on.
+
+![Svelte Logo](svelte.png)
 
 ##How is this different from Angular Vue or React
   When I first heard about Svelte, I knew this was different. Cause all those who talked about it seemed to be very much interested and the vibe surrounding the framework seemed to be promising. Svelte wasn't a me too framework firstly. It could do what others did but with a much lesser bundle size and very high performance. Which is exactly what the rest of the frameworks are trying to do with their existing code. There are numerous benchmarks that clearly show how Svelte trumps in all performance tests against its competition. Svelte also delivered in some real world cases where developers were able to build apps for low power devices like POS machines where React, Vue and many other frameworks had failed to deliver.
