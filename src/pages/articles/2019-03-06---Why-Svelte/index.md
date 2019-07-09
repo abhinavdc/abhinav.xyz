@@ -4,7 +4,7 @@ date: '2019-06-03T17:51:00.000Z'
 layout: post
 draft: false
 path: '/posts/why-svelte-disrupt-js-framework-space/'
-category: 'JavaScript'
+category: 'Web Development'
 tags:
   - 'Svelte'
   - 'JavaScript'
