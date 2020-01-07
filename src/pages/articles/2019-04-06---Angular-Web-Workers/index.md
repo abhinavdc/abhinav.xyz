@@ -8,7 +8,7 @@ category: 'Web Development'
 tags:
   - 'Angular'
   - 'JavaScript'
-description: 'Angular 8 was just released and working with web workers was never this easy. Angular CLI will now let you generate web workers just like a component or service.
+description: 'Angular 8 was just released and working with web workers was never this easy. Angular CLI will now let you generate web workers just like a component or service.'
 ---
 
 Angular 8 was just released and working with Web Workers was never this easy. Angular CLI will now let you generate Web Workers just like a component or service.
