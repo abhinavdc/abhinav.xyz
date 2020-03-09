@@ -7,6 +7,9 @@ path: '/portfolio'
 ### [Say The Levitation Charm](https://say-the-levitation-charm.netlify.com)
 If you are a Harry Porter fan, find out how much of wizard you are over [here](https://say-the-levitation-charm.netlify.com).
 
+### [Trivia Quiz](https://trivia-app-abd.netlify.com)
+Test your trivia knowledge using the Trivia Quiz app. Built in clojure, fetches questions from Open Trivia DB. Play the quiz [here](https://trivia-app-abd.netlify.com).
+
 ### [Larkcs Life Link](https://abhinavdc.github.io/Larkcs-Official-Website/)
 Official website for a (now defunct) startup. Check the archived version [here](https://abhinavdc.github.io/Larkcs-Official-Website/)
 
